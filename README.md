@@ -12,7 +12,7 @@ http://1.leadink.cn/fn.php
 # 源码文件下载地址
 https://m1a1.com/146154.html
 
-如果不会搭建或需要其他源码请联系技术飞机号TG:@m1a1.com
+如果不会搭建或需要其他源码请联系技术飞机号TG:https://t.me/m1a1_com
 
 
 # 源码演示站部分截图
